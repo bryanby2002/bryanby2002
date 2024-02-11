@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Bryan</a></h1>
-<h3 align="center">Apasionado por el desarrollo de software &#127470;&#127475</h3>
+<h1 align="center">HOLA👋, SOY <a href="https://github.com/bryanby2002" target="_blank">
+BRYAN</a></h1>
+<h3 align="center">Desarrollo de software 👨‍💻</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
