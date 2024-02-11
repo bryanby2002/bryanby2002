@@ -6,23 +6,19 @@ BRYAN</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Actualmente soy estudiante de Ingenieria de Sistemas en la <a href="https://www.elp.edu.pe/ingenier%C3%ADa-de-sistemas-de-informacion" target="_blank">ELP</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🤝 Disponible para realizar practicas en entorno profesional.
 
-- 🤝 I’m available for freelancing.
+- 🌱 Actualmente estoy aprendiendo y realizando proyectos en Java Spring
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 📝 Puedes preguntarme por API Rest, Json y Bases de datos.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📫 Contactame **brayan7br7@gmail.com**
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 👨‍💻 Conoce el codigo que escribo aquí en <a href="https://github.com/bryanby2002?tab=repositories" target="blank">Github</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
 
 <p align="center">
 
@@ -47,7 +43,7 @@ BRYAN</a></h1>
 
 </p>
 
-### Blogs posts
+### Mis blogs
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -59,6 +55,4 @@ BRYAN</a></h1>
 ---
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
 
